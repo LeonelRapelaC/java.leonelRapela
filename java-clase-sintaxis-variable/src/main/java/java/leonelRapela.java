@@ -1,13 +1,13 @@
 import java.util.Scanner;
 
-public class leonelRapela {
+public class leonelRapela{
     public static void main(String[] args) {
 
         int var1 = 400;
         System.out.println(var1);
 
         boolean isPCAvailacle;
-        isPCAvailacle = false;
+        isPCAvailacle = true;
 
         System.out.println(isPCAvailacle);
 
